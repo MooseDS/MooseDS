@@ -6,8 +6,6 @@
 🚀 성장 과정을 기록하고 공유합니다  
 😊 개발 이야기와 소통은 언제나 환영합니다
 
----
-
 ## 🛠️ 개발 스킬 & 관심사
 
 ### 📱 모바일 개발
@@ -35,15 +33,11 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
----
-
 ## 🙋‍♂️ About Me
 
-- 🌐 **Homepage** : https://your-github-name.github.io
-
----
+- 🌐 **Homepage** : https://mooseds.github.io
 
 ## ✍️ 최근 블로그 글
 
-- 📌 [블로그 글 제목](https://blog-link)
+- 📌 [블로그 글 제목]
 
