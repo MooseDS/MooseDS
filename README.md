@@ -35,7 +35,7 @@
 ![LLM](https://img.shields.io/badge/LLM--Driven%20Coding-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square&logo=openai&logoColor=white)
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ 기술 기록하기
 
 - 🌐 **Homepage** : https://mooseds.github.io
 
