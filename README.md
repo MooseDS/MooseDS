@@ -43,3 +43,6 @@
 
 - 📌 [AI 개발 시작해보기](https://velog.io/@ds12892/%ED%8F%89%EB%B2%94%ED%95%9C-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-Context-Engineering-%EC%8B%A4%ED%97%98%EA%B8%B0-1%EC%A3%BC%EC%B0%A8)
 
+## 서비스 MVP 개발하기
+[MakeSpace - 목표 관리 하기](https://makespace.pages.dev/) 
+
